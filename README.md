@@ -6,19 +6,45 @@ A website dedicated to alternatives to npmjs.com
 - npm_lazy: [on npm](https://www.npmjs.com/package/npm_lazy) / [on Github](https://github.com/mixu/npm_lazy)
 - reggie: [on npm](https://www.npmjs.com/package/reggie) / [on Github](https://github.com/mbrevoort/node-reggie)
 - sinopia: [on npm](https://www.npmjs.com/package/sinopia) / [on Github](https://github.com/rlidwka/sinopia)
-- Know more? Fork this README to add to this list and send me a pull request!
+- Know more? Fork this file to add it to this list and send me a pull request!
+
+## How to use alternative registries
+
+For one-off use:
+```
+npm --registry http://registry.node-modules.io/ install express
+```
+
+To remember registry setting:
+```
+npm set config registry http://registry.node-modules.io/
+```
+
+## Mirrors
+
+- :star: This website runs an instance of local-npm on http://registry.node-modules.io/
+- Europe http://registry.npmjs.eu
+- Australia http://registry.npmjs.org.au
+- USA https://registry.nodejitsu.com
+- USA https://npm.strongloop.com
+- [cnpm](https://cnpmjs.org/) runs two mirrors, based in China
+- Know more? Fork this file to add it to this list and send me a pull request!
 
 ## Alternative search engines for the npm registry
+- :star: This website is running the local-npm GUI at http://local-npm.node-modules.io/_browse/
 - http://node-modules.com/
 - https://npmsearch.com/
 - http://nodezoo.com/
 - https://anvaka.github.io/npmrank/online
 - http://eirikb.github.io/nipster/
 - https://nodejsmodules.org/ (expired SSL cert though)
+- Know more? Fork this file to add it to this list and send me a pull request!
 
 ## Alternative ways to download packages
-- registry-mirror: [on npm](https://www.npmjs.com/package/registry-mirror) / [on Github](https://github.com/diasdavid/registry-mirror)
+- ipfs-npm: [on npm](https://www.npmjs.com/package/ipfs-npm) / [on Github](https://github.com/diasdavid/npm-on-ipfs)
+- Know more? Fork this file to add it to this list and send me a pull request!
 
 ## Alternatives to npm-cli
 - ied: [on npm](https://www.npmjs.com/package/ied) / [on Github](http://gugel.io/ied/)
 - npmd: [on npm](https://www.npmjs.com/package/npmd) / [on Github](https://github.com/dominictarr/npmd)
+- Know more? Fork this file to add it to this list and send me a pull request!
