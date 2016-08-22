@@ -7,6 +7,7 @@ A website dedicated to alternatives to npmjs.com
 - reggie: [on npm](https://www.npmjs.com/package/reggie) / [on Github](https://github.com/mbrevoort/node-reggie)
 - sinopia: [on npm](https://www.npmjs.com/package/sinopia) / [on Github](https://github.com/rlidwka/sinopia)
 - reginabox: [on npm](https://www.npmjs.com/package/reginabox) / [on Github](https://github.com/yahoo/reginabox)
+- μnpm: [on npm](https://www.npmjs.com/package/unpm) / [on Github](https://github.com/hayes/unpm)
 - Know more? Fork this file to add it to this list and send me a pull request!
 
 ## How to use alternative registries
