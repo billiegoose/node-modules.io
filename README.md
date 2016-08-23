@@ -40,6 +40,7 @@ npm set config registry http://registry.node-modules.io/
 - https://anvaka.github.io/npmrank/online/ [on Github](https://github.com/anvaka/npmrank/tree/master/online)
 - http://nipster.com/ [on Github](https://github.com/eirikb/nipster)
 - https://nodejsmodules.org/ (expired SSL cert though) [on Github](https://github.com/corruptmem/nodejsmodules)
+- https://npms.io/ [on Github](https://github.com/npms-io)
 - Know more? Fork this file to add it to this list and send me a pull request!
 
 ## Alternative ways to download packages
