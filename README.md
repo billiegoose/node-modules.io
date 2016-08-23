@@ -1,13 +1,14 @@
 # node-modules.io
 A website dedicated to alternatives to npmjs.com
 
-## Host your own node package repository
+## Host your own node package registry
 - local-npm: [on npm](https://www.npmjs.com/package/local-npm) / [on Github](https://github.com/nolanlawson/local-npm) (my current favorite :star:)
 - npm_lazy: [on npm](https://www.npmjs.com/package/npm_lazy) / [on Github](https://github.com/mixu/npm_lazy)
 - reggie: [on npm](https://www.npmjs.com/package/reggie) / [on Github](https://github.com/mbrevoort/node-reggie)
 - sinopia: [on npm](https://www.npmjs.com/package/sinopia) / [on Github](https://github.com/rlidwka/sinopia)
 - reginabox: [on npm](https://www.npmjs.com/package/reginabox) / [on Github](https://github.com/yahoo/reginabox)
 - μnpm: [on npm](https://www.npmjs.com/package/unpm) / [on Github](https://github.com/hayes/unpm)
+- npm-register: [on npm](https://www.npmjs.com/package/npm-register) / [on Github](https://github.com/dickeyxxx/npm-register)
 - Know more? Fork this file to add it to this list and send me a pull request!
 
 ## How to use alternative registries
