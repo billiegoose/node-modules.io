@@ -34,7 +34,7 @@ npm set config registry http://registry.node-modules.io/
 - Know more? Fork this file to add it to this list and send me a pull request!
 
 ## Alternative search engines for the npm registry
-- :star: This website is running the local-npm GUI at http://local-npm.node-modules.io/_browse/
+- :star: This website is running the local-npm GUI at http://local-npm.node-modules.io/
 - http://node-modules.com/ [on Github](https://github.com/mafintosh/node-modules)
 - https://npmsearch.com/ [on Github](https://github.com/solids/npmsearch)
 - http://nodezoo.com/ [on Github](https://github.com/nodezoo/nodezoo-workshop)
