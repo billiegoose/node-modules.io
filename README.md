@@ -39,7 +39,7 @@ npm set config registry http://registry.node-modules.io/
 - https://npmsearch.com/ [on Github](https://github.com/solids/npmsearch)
 - http://nodezoo.com/ [on Github](https://github.com/nodezoo/nodezoo-workshop)
 - https://anvaka.github.io/npmrank/online/ [on Github](https://github.com/anvaka/npmrank/tree/master/online)
-- http://nipster.com/ [on Github](https://github.com/eirikb/nipster)
+- http://nipstr.com/ [on Github](https://github.com/eirikb/nipster)
 - https://nodejsmodules.org/ (expired SSL cert though) [on Github](https://github.com/corruptmem/nodejsmodules)
 - https://npms.io/ [on Github](https://github.com/npms-io)
 - Know more? Fork this file to add it to this list and send me a pull request!
