@@ -9,6 +9,7 @@ A website dedicated to alternatives to npmjs.com
 - reginabox: [on npm](https://www.npmjs.com/package/reginabox) / [on Github](https://github.com/yahoo/reginabox)
 - μnpm: [on npm](https://www.npmjs.com/package/unpm) / [on Github](https://github.com/hayes/unpm)
 - npm-register: [on npm](https://www.npmjs.com/package/npm-register) / [on Github](https://github.com/dickeyxxx/npm-register)
+- npm-on-ipfs: [on npm](https://www.npmjs.com/package/registry-mirror) / [on GitHub](https://github.com/diasdavid/npm-on-ipfs)
 - Know more? Fork this file to add it to this list and send me a pull request!
 
 ## How to use alternative registries
