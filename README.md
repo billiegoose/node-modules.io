@@ -2,7 +2,8 @@
 A website dedicated to alternatives to npmjs.com
 
 ## Host your own node package registry
-- local-npm: [on npm](https://www.npmjs.com/package/local-npm) / [on Github](https://github.com/nolanlawson/local-npm) (my current favorite :star:)
+- modserv: [on npm](https://www.npmjs.com/package/modserv) / [on Github](https://github.com/wmhilton/modserv) (my fork of local-npm)
+- local-npm: [on npm](https://www.npmjs.com/package/local-npm) / [on Github](https://github.com/nolanlawson/local-npm) (unmaintained)
 - npm_lazy: [on npm](https://www.npmjs.com/package/npm_lazy) / [on Github](https://github.com/mixu/npm_lazy)
 - reggie: [on npm](https://www.npmjs.com/package/reggie) / [on Github](https://github.com/mbrevoort/node-reggie)
 - sinopia: [on npm](https://www.npmjs.com/package/sinopia) / [on Github](https://github.com/rlidwka/sinopia)
@@ -27,7 +28,7 @@ npm set config registry http://registry.node-modules.io/
 
 ## Mirrors
 
-- :star: This website runs an instance of local-npm on http://registry.node-modules.io/
+- :star: This website runs an instance of `modserv` on http://registry.node-modules.io/
 - Europe http://registry.npmjs.eu
 - Australia http://registry.npmjs.org.au
 - USA https://registry.nodejitsu.com
@@ -36,7 +37,7 @@ npm set config registry http://registry.node-modules.io/
 - Know more? Fork this file to add it to this list and send me a pull request!
 
 ## Alternative search engines for the npm registry
-- :star: This website is running the local-npm GUI at http://local-npm.node-modules.io/
+- :star: This website is running the `modserv` GUI at http://ui.node-modules.io/
 - http://node-modules.com/ [on Github](https://github.com/mafintosh/node-modules)
 - https://npmsearch.com/ [on Github](https://github.com/solids/npmsearch)
 - http://nodezoo.com/ [on Github](https://github.com/nodezoo/nodezoo-workshop)
