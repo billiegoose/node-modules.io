@@ -28,7 +28,7 @@ npm set config registry http://registry.node-modules.io/
 
 ## Mirrors
 
-- ★ This website runs an instance of `modserv` on http://registry.node-modules.io/
+- ★ This website runs an instance of `modserv` on [https://registry.node-modules.io/](https://registry.node-modules.io/)
 - Europe http://registry.npmjs.eu
 - Australia http://registry.npmjs.org.au
 - USA https://registry.nodejitsu.com
@@ -37,7 +37,7 @@ npm set config registry http://registry.node-modules.io/
 - Know more? Fork this file to add it to this list and send me a pull request!
 
 ## Alternative search engines for the npm registry
-- ★ This website is running the `modserv` GUI at http://ui.node-modules.io/
+- ★ This website is running the `modserv` GUI at [https://ui.node-modules.io/](https://ui.node-modules.io/)
 - http://node-modules.com/ [on Github](https://github.com/mafintosh/node-modules)
 - https://npmsearch.com/ [on Github](https://github.com/solids/npmsearch)
 - http://nodezoo.com/ [on Github](https://github.com/nodezoo/nodezoo-workshop)
