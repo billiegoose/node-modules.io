@@ -56,4 +56,6 @@ npm set config registry http://registry.node-modules.io/
 ## Alternatives to npm-cli
 - ied: [on npm](https://www.npmjs.com/package/ied) / [on Github](http://gugel.io/ied/)
 - npmd: [on npm](https://www.npmjs.com/package/npmd) / [on Github](https://github.com/dominictarr/npmd)
+- pnpm: [on npm](https://www.npmjs.com/package/pnpm) / [on Github](https://github.com/pnpm/pnpm)
+- yarn: [on npm](https://www.npmjs.com/package/yarn) / [on Github](https://github.com/yarnpkg/yarn)
 - Know more? Fork this file to add it to this list and send me a pull request!
