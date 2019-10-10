@@ -13,6 +13,7 @@ A website dedicated to alternatives to npmjs.com
 - registry-mirror: [on npm](https://www.npmjs.com/package/registry-mirror) / [on GitHub](https://github.com/diasdavid/registry-mirror)
 - ipfs-npm (successor to registry-mirror): [on npm](https://www.npmjs.com/package/ipfs-npm) / [on Github](https://github.com/diasdavid/npm-on-ipfs)
 - verdaccio: [on npm](https://www.npmjs.com/package/verdaccio) / [on Github](https://github.com/verdaccio/verdaccio)
+- [Artifactory](https://jfrog.com/integration/npm-registry/)
 - Know more? Fork this file to add it to this list and send me a pull request!
 
 ## How to use alternative registries
