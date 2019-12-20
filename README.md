@@ -47,6 +47,7 @@ npm set config registry http://registry.node-modules.io/
 - http://nipstr.com/ [on Github](https://github.com/eirikb/nipster)
 - https://nodejsmodules.org/ (expired SSL cert though) [on Github](https://github.com/corruptmem/nodejsmodules)
 - https://npms.io/ [on Github](https://github.com/npms-io)
+- https://www.pika.dev/registry [on Github](https://github.com/pikapkg/registry)
 - Know more? Fork this file to add it to this list and send me a pull request!
 
 ## Alternative ways to download packages
@@ -58,4 +59,7 @@ npm set config registry http://registry.node-modules.io/
 - npmd: [on npm](https://www.npmjs.com/package/npmd) / [on Github](https://github.com/dominictarr/npmd)
 - pnpm: [on npm](https://www.npmjs.com/package/pnpm) / [on Github](https://github.com/pnpm/pnpm)
 - yarn: [on npm](https://www.npmjs.com/package/yarn) / [on Github](https://github.com/yarnpkg/yarn)
+- ims: [on npm](https://www.npmjs.com/package/ims) / [on Github](https://github.com/mafintosh/ims)
+- jspm: [on npm](https://www.npmjs.com/package/jspm) / [on Github](https://github.com/jspm/jspm-cli)
+- pika: [on npm](https://www.npmjs.com/package/@pika/web) / [on Github](https://github.com/pikapkg/web)
 - Know more? Fork this file to add it to this list and send me a pull request!
